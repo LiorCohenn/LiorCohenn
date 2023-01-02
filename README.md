@@ -12,6 +12,7 @@
   
   <h4>I worked with these technologies and other not included 😄</h4>
 <div style="display: inline_block"><br>
+  <a href="https://github.com/LiorCohenn">
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="Feathersjs" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/feathersjs/feathersjs-original.svg">
@@ -19,22 +20,23 @@
   <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Db" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-plain-wordmark.svg">
   <img align="center" alt="Bash" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-plain.svg">
+     </a>
 </div>
 
 ### Repositories :
 <div align="center">
-  <a href="https://github.com/LiorCohenn">
+  <a href="https://github.com/LiorCohenn/ts-abi-decoder" target="_blank">
   <img height="130em" src="https://github-readme-stats.vercel.app/api/pin?username=liorcohenn&repo=ts-abi-decoder&title_color=fff&icon_color=f9f9f9&text_color=ffff&bg_color=30,e96443,904e95&show_owner=true"/>
 
 </div>
 
 ### 📢 Find me here
 <p align="center">
-  <a href="https://www.linkedin.com/in/iamliorcohen/">
+  <a href="https://www.linkedin.com/in/iamliorcohen/" target="_blank">
     <img src="https://raw.githubusercontent.com/MikeCodesDotNET/MikeCodesDotNET/a8abbf37441f3253f74ea255a47f289208d7568c/Resources/linkedIn.svg" alt="LinkedIn" style="vertical-align:top; margin:4px">
   </a>
 
-  <a href="https://www.instagram.com/liorco22/">
+  <a href="https://www.instagram.com/liorco22/" target="_blank">
     <img src="https://raw.githubusercontent.com/MikeCodesDotNET/MikeCodesDotNET/a8abbf37441f3253f74ea255a47f289208d7568c/Resources/instagram.svg" alt="Instagram" style="vertical-align:top; margin:4px">
   </a>
 
