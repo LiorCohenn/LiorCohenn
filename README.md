@@ -5,7 +5,7 @@
 - I'm focused in backend development.
 <div align="center">
   <a href="https://github.com/LiorCohenn">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=liorcohenn&bg_color=30,e96443,904e95&title_color=fff&text_color=fff"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=liorcohenn&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&count_private=true"/>
   <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=liorcohenn&layout=compact&langs_count=6&bg_color=30,e96443,904e95&text_color=ffff&title_color=fff"/>
 </div>
   
@@ -45,7 +45,9 @@
   <a href="https://github.com/LiorCohenn">
     <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=blue" alt="LinkedIn" style="vertical-align:top; margin:4px">
   </a>
+  
 </p>
+
 
 
 
