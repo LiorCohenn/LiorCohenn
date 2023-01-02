@@ -1,5 +1,4 @@
-# Lior Cohen
-
+# Hi Lior here 👋
 
 - 💻 &nbsp; I’m currently working at **Kirobo**
 - I'm focused in backend development.
